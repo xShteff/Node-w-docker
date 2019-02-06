@@ -1,0 +1,22 @@
+{
+  "name": "cote-test",
+  "version": "1.0.0",
+  "description": "testing code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alstol/Node-w-docker.git"
+  },
+  "author": "Alin Stefan Olaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alstol/Node-w-docker/issues"
+  },
+  "homepage": "https://github.com/alstol/Node-w-docker#readme",
+  "dependencies": {
+    "cote": "^0.19.1"
+  }
+}
